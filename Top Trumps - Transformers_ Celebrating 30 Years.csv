@@ -1,0 +1,31 @@
+Individual,Size,Speed,Power,Disguise,Top Trumps Rating,Type
+Astrotrain,5,3,45,5,10,Insecticon
+Barrage,1,2,35,20,6,Insecticon
+Blitzwing,4,8,45,10,8,Insecticon
+Bluestreak,3,6,25,14,4,Autobot
+Brawn,2,3,32,19,7,Autobot
+Bumblebee,2,5,15,16,14,Autobot
+Cliffjumper,1,6,30,16,7,Autobot
+Cosmos,6,1,50,1,5,Autobot
+Devastator,5,4,50,20,14,Insecticon
+Frenzy,1,2,15,18,8,Autobot
+Grapple,5,2,49,13,3,Autobot
+Grimlock,4,5,49,1,15,Autobot
+Hound,2,4,18,16,4,Autobot
+Huffer,2,3,15,11,3,Autobot
+Ironhide,3,4,32,20,13,Autobot
+Jazz,2,8,36,12,13,Autobot
+Laserbeak,1,5,25,18,12,Decepticon
+Megatron,5,6,48,3,14,Autobot
+Optimus Prime,4,8,50,11,15,Autobot
+Ransack,1,4,28,20,6,Insecticon
+Ratchet,3,6,28,18,10,Autobot
+Ravage,1,4,30,18,13,Insecticon
+Seaspray,2,4,20,6,2,Autobot
+Shockwave,4,5,48,1,9,Insecticon
+Skywarp,3,10,26,11,2,Insecticon
+Soundwave,3,4,30,18,11,Insecticon
+Starscream,4,9,35,10,9,Insecticon
+Thundercracker,4,8,36,11,5,Insecticon
+Topspin,5,4,48,2,11,Autobot
+Windcharger,3,9,40,15,12,Autobot

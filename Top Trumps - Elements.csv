@@ -1,0 +1,31 @@
+Individual,Melting Point (degrees C),Density (kg/m cubed),Price (Pounds Sterling per 100g),Discovery Date,Size of Atom (pm),Symbol,Atomic Number,Subcategory in metal-metalloid-nonmetal trend
+Boron,2077,2340,150,1808,384,B,5,Metalloid
+Carbon,4489,2260,1.2,"30,000 BC",340,C,6,Polyatomic Nonmetal
+Lithium,181,534,110,1817,364,Li,3,Alkali Metal
+Bromine,-7,3122,2.6,1826,370,Br,35,Diatomic Nonmetal
+Cadmium,321,8650,24,1817,436,Cd,48,Transition Metal
+Caesium,29,1873,3400,1860,686,Cs,55,Alkali Metal
+Silver,962,10500,310,"3,000 BC",422,Ag,47,Transition Metal
+Hydrogen,-259,0.1,68,1766,220,H,1,Diatomic Nonmetal
+Helium,-271,0.2,48,1895,280,He,2,Noble Gas
+Nitrogen,-210,1.1,13,1772,310,N,7,Diatomic Nonmetal
+Oxygen,-219,1.3,7.6,1774,304,O,8,Diatomic Nonmetal
+Fluorine,-220,1.6,99,1886,294,F,9,Diatomic Nonmetal
+Neon,-249,0.8,140,1898,308,Ne,10,Noble Gas
+Sodium,98,971,7,1807,454,Na,11,Alkali Metal
+Aluminium,660,2698,2.6,1825,368,Al,13,Post-transition Metal
+Magnesium,650,1738,3.3,1755,346,Mg,12,Alkaline Earth Metal
+Silicon,1414,2329,16,1824,420,Si,14,Metalloid
+Phosphorus,579,2200,5.3,1669,360,P,15,Polyatomic Nonmetal
+Sulfur,115,2070,1.3,"2,000 BC",360,S,16,Polyatomic Nonmetal
+Chlorine,-102,2.9,18,1774,350,Cl,17,Diatomic Nonmetal
+Potassium,64,862,190,1807,550,K,19,Alkali Metal
+Calcium,842,1550,20,1808,462,Ca,20,Alkaline Earth Metal
+Iron,1538,7874,1.9,"2,500 BC",408,Fe,26,Transition Metal
+Copper,1085,8960,4.7,"9,000 BC",392,Cu,29,Transition Metal
+Arsenic,817,5780,1100,1250,370,As,33,Metalloid
+Europium,822,5243,15000,1901,470,Eu,63,Lanthanide
+Osmium,3033,22590,16000,1803,432,Os,76,Transition Metal
+Gold,1064,19320,8600,"3,000 BC",428,Au ,79,Transition Metal
+Mercury,-39,13546,11,"1,500 BC",446,Hg,80,Transition Metal
+Lead,327,11350,2.6,"1,000 BC",404,Pb,82,Post-transition Metal
